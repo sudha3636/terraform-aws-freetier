@@ -1,0 +1,16 @@
+# Terraform - never upload these!
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform.tfvars
+override.tf
+
+# SSH keys
+*.pem
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
