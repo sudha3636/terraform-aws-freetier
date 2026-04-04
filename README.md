@@ -206,13 +206,25 @@ Type `yes` to confirm. Always verify in the AWS Console that no resources remain
 ## Screenshots
 
 | Screenshot | Description |
-|------------|-------------|
-| "C:\Users\sudha\OneDrive\Pictures\Screenshots\Website output.png" | Application running in browser with visit counter |
-| "C:\Users\sudha\OneDrive\Pictures\Screenshots\EC2-demo-app-server.png" | EC2 instance running in AWS Console |
-| "C:\Users\sudha\OneDrive\Pictures\Screenshots\RDS DB-demo-app-mysql.png"| RDS instance available in AWS Console |
-| "C:\Users\sudha\OneDrive\Pictures\Screenshots\Cloudwatch dashboard.png"| CloudWatch dashboard with live metrics |
-| "C:\Users\sudha\OneDrive\Pictures\Screenshots\terraform state lists.png" | Terraform apply output in terminal |
-| "C:\Users\sudha\OneDrive\Pictures\Screenshots\SSM Parameter Store.png" | SSM Parameter Store showing DB credentials |
+|------------|--------------|
+
+### Application Running in Browser
+![App](screenshots/app-browser.png)
+
+### EC2 Instance Running
+![EC2](screenshots/ec2-console.png)
+
+### RDS Instance Available
+![RDS](screenshots/rds-console.png)
+
+### CloudWatch Dashboard
+![CloudWatch](screenshots/cloudwatch-dashboard.png)
+
+### SSM Parameter Store
+![SSM](screenshots/ssm-parameters.png)
+
+### Terraform State List
+![Terraform](screenshots/terraform-state.png)
 
 ---
 
